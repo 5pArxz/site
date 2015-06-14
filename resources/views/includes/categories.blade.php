@@ -16,7 +16,7 @@
 			<a href="#">VueJs &nbsp; <span class="widget-categories__text">(23)</span> </a>
 		</li>
 		<li>
-			<a href="#">Envoyer &amp; Books &nbsp; <span class="widget-categories__text">(3)</span> </a>
+			<a href="#">Envoyer &nbsp; <span class="widget-categories__text">(3)</span> </a>
 		</li>
 	</ul>
 </div>
