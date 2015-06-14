@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="col-xs-12  col-md-3">
 			<div class="widget-about  push-down-30">
-				<img src="/images/logo.png.pagespeed.ce.9AC7oTjcgs.png" alt="Logo" width="176" height="70">
+				<img src="/images/logo.png" alt="Gerhard Botha" width="176" height="70">
 				<br/>
 				<span class="footer__text">Mini About me here</span>
 			</div>
@@ -65,5 +65,6 @@
 </footer>
 	<script src="/js/main.js"></script>
 	<script src="/js/prism.js"></script>
+	@yield('scripts')
 	</body>
 </html>

@@ -10,13 +10,12 @@
 				<div class="col-xs-12  col-sm-8">
 					<div class="meta__info">
 						<span class="meta__author"><img src="images/dummy/30x30xabout-5.jpg.pagespeed.ic.x5zyS-vzza.jpg" alt="Meta avatar" width="30" height="30"> <a href="#">Danielle Thatcher</a> in <a href="#">News</a> </span>
-						<span class="meta__date"><span class="fa fa-calendar"></span> &nbsp; 6. May, 2014</span>
+						<span class="meta__date"><span class="fa fa-calendar"></span> &nbsp; {{ $post->published_at->toFormattedDateString() }}</span>
 					</div>
 				</div>
 				<div class="col-xs-12  col-sm-4">
 					<div class="meta__comments">
-						<span class="fa fa-comment"> 123</span> &nbsp;
-						<a href="#"><span class="fa fa-star"> 500</span></a>
+						<a href="#"><span class="fa fa-heart"> 500</span></a>
 					</div>
 				</div>
 			</div>

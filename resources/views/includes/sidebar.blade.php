@@ -10,7 +10,7 @@
 			<div class="row">
 				<div class="col-xs-10  col-xs-offset-1">
 					<h4>Gerhard Botha</h4>
-					<p>PHP Developer and Laravel Fanatic ...</p>
+					<p>I’m a self-proclaimed perfectionist with a passion for all things web, which is exceeded only by my obsession with spicy food.</p>
 				</div>
 			</div>
 		</div>

@@ -27,7 +27,7 @@
 		<div class="container">
 			<div class="logo  pull-left">
 				<a href="/">
-					<img src="/images/logo.png.pagespeed.ce.9AC7oTjcgs.png" alt="Logo" width="352" height="140">
+					<img src="/images/logo.png" alt="Gerhard Botha" width="352" height="140">
 				</a>
 			</div>
 			<div class="navbar-header">
@@ -46,6 +46,9 @@
 						</li>						
 						<li class="{{ Request::is('/about') ? 'active' : '' }}">
 							<a href="/about">About</a>
+						</li>
+						<li class="{{ Request::is('/projects') ? 'active' : '' }}">
+							<a href="/projects">Projects</a>
 						</li>
 						<li class="{{ Request::is('/contact') ? 'active' : '' }}">
 							<a href="/contact">Contact</a>

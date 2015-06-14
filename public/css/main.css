@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700);
+
 article, aside, details, figcaption, figure, footer, header, hgroup, main, nav, section, summary {
     display: block;
 }
@@ -12,7 +14,7 @@ audio:not([controls]) {
     display: none;
 }
 html {
-    font-family: sans-serif;
+    font-family: "Lato", Helvetica, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%}
 body {
@@ -300,7 +302,7 @@ cite {
     text-align: center;
 }
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", Helvetica, sans-serif;
     font-weight: 500;
     line-height: 1.1;
     color: #2f343b;
@@ -433,7 +435,7 @@ address {
     line-height: 1.5;
 }
 code, kbd, pre, samp {
-    font-family: Monaco, Menlo, Consolas, "Courier New", monospace;
+    font-family: "Lato", Helvetica, monospace;
 }
 code {
     padding: 2px 4px;
@@ -3372,13 +3374,13 @@ td.visible-print, th.visible-print {
 }
 }
 body {
-    font-family: Georgia, serif;
+    font-family: "Lato", Helvetica, sans-serif;
     background-color: #f3f4f4;
 }
 h1, h2, h3, h4, h5, h6 {
     line-height: 1.5;
     margin: 15px 0;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     color: #2f343b;
     font-weight: 700;
 }
@@ -3449,7 +3451,7 @@ h5 {
 }
 h6 {
     font-size: 12px;
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     text-transform: uppercase;
     margin: 0;
     color: #9a9a90;
@@ -3642,7 +3644,7 @@ h1+h3, h2+h3 {
     height: auto;
 }
 .features p {
-    font-family: Georgia, serif;
+    font-family: "Lato", serif;
     font-size: 16px;
     line-height: 1.65;
     color: #40454a;
@@ -3657,7 +3659,7 @@ h1+h3, h2+h3 {
     background-color: #fff;
     border-top: 1px solid #e4e4e4;
     padding: 10px 0;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     color: #9a9a90;
 }
 @media (min-width:768px) {
@@ -3683,7 +3685,7 @@ h1+h3, h2+h3 {
 .navbar-default {
     background-color: transparent;
     border: 0;
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     margin: 0;
     min-height: 0;
 }
@@ -3855,7 +3857,7 @@ h1+h3, h2+h3 {
 }
 .search-panel {
     display: none;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     background-color: rgba(0, 0, 0, .75);
     position: fixed;
     top: 0;
@@ -3866,7 +3868,7 @@ h1+h3, h2+h3 {
 }
 .search-panel form {
     margin-top: 50px;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
 }
 @media (min-width:992px) {
     .search-panel form {
@@ -3935,7 +3937,7 @@ body.search-mode .search-panel {
     line-height: 1.5;
     color: #9a9a90;
     font-size: 14px;
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
 }
 .sidebar h6 {
     margin-bottom: 12px;
@@ -3957,7 +3959,7 @@ body.search-mode .search-panel {
     line-height: 1.5;
     font-size: 14px;
     margin-bottom: 30px;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
 }
 .widget-author__image-container {
     position: relative;
@@ -4011,7 +4013,7 @@ body.search-mode .search-panel {
 }
 }
 .widget-author__content p {
-    font-family: Georgia, serif;
+    font-family: "Lato", serif;
     font-size: 18px;
     color: #40454a;
 }
@@ -4031,13 +4033,13 @@ body.search-mode .search-panel {
     line-height: 1.5;
     font-size: 14px;
     margin-bottom: 30px;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
 }
 .widget-featured-post img {
     border-radius: 3px;
 }
 .widget-categories {
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 14px;
     font-weight: 700;
 }
@@ -4079,7 +4081,7 @@ body.search-mode .search-panel {
     color: #9a9a90;
 }
 .widget-posts {
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 700;
 }
 .widget-posts .nav-tabs {
@@ -4124,20 +4126,20 @@ body.search-mode .search-panel {
 }
 .widget-posts h5 {
     font-size: 14px;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     line-height: 1.3;
     margin-top: 0;
     margin-bottom: 10px;
 }
 .widget-posts .widget-posts__time {
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     color: #9a9a90;
 }
 .widget-recent-comments ul {
     list-style: none;
     padding: 0;
     color: #9a9a90;
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 700;
 }
 .widget-recent-comments ul li {
@@ -4145,7 +4147,7 @@ body.search-mode .search-panel {
     padding: 10px 0;
 }
 .widget-recent-comments ul li a {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     border: 0;
 }
 .widget-tags hr {
@@ -4167,11 +4169,11 @@ body.search-mode .search-panel {
     margin-bottom: 15px;
 }
 .widget-contact__title {
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     color: #51ab6d;
 }
 .widget-contact__text {
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 14px;
     color: #9a9a90;
 }
@@ -4187,7 +4189,7 @@ body.search-mode .search-panel {
     padding: 5px 0;
     text-transform: none;
     border: 0;
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 14px;
 }
 .widget-navigation .navigation li a:hover {
@@ -4208,7 +4210,7 @@ body.search-mode .search-panel {
 }
 .footer__text {
     color: #9a9a90;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 14px;
 }
 .btn {
@@ -4216,7 +4218,7 @@ body.search-mode .search-panel {
     border-radius: 4px;
     font-weight: 700;
     font-size: 14px;
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     padding: 8px 16px;
     margin-bottom: 5px;
 }
@@ -4376,7 +4378,7 @@ body.search-mode .search-panel {
     border-top-left-radius: 0;
 }
 .meta__container, .meta__container--without-image {
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 700;
     font-size: 14px;
     color: #999;
@@ -4469,7 +4471,7 @@ body.search-mode .search-panel {
     width: 90%;
     left: 5%;
     color: #fff;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     font-weight: 300;
     text-shadow: 0 1px 2px rgba(0, 0, 0, .6);
 }
@@ -4580,7 +4582,7 @@ body.search-mode .search-panel {
     text-transform: uppercase;
     font-size: 14px;
     font-weight: 700;
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     -webkit-transition: all .1s linear;
     transition: all .1s linear;
 }
@@ -4643,7 +4645,7 @@ body.search-mode .search-panel {
     padding: 9.5px 20px;
     font-size: 14px;
     font-weight: 700;
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     -webkit-transition: all .1s linear;
     transition: all .1s linear;
 }
@@ -4708,7 +4710,7 @@ body.search-mode .search-panel {
 }
 .post-author .post-author__text {
     font-size: 14px;
-    font-family: "Open Sans", sans-serif;
+    font-family: "Lato", sans-serif;
     color: #9a9a90;
 }
 .related-stories {
@@ -4759,7 +4761,7 @@ body.search-mode .search-panel {
     padding: 10px 0 45px;
 }
 .contact form {
-    font-family: Lato, sans-serif;
+    font-family: "Lato", sans-serif;
     font-size: 16px;
 }
 .contact form input {
