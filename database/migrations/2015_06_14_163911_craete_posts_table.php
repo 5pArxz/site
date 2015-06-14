@@ -18,6 +18,7 @@ class CraetePostsTable extends Migration
             $table->string('image');
             $table->string('title');
             $table->text('body');
+            $table->boolean('featured')->default(0);
             $table->datetime('published_at');
             $table->rememberToken();
             $table->timestamps();

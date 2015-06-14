@@ -21,4 +21,15 @@ class PostsController extends Controller
 
         return view('posts.index', compact('posts'));
     }
+
+    /**
+     * Display a single post.
+     *
+     * @return Response
+     */
+    public function show($slug)
+    {
+        $post = Post::findBySlug($slug);
+        return view('posts.show', compact('post'));
+    }
 }

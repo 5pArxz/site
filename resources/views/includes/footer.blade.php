@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="col-xs-12  col-md-3">
 			<div class="widget-about  push-down-30">
-				<img src="images/logo.png.pagespeed.ce.9AC7oTjcgs.png" alt="Logo" width="176" height="70">
+				<img src="/images/logo.png.pagespeed.ce.9AC7oTjcgs.png" alt="Logo" width="176" height="70">
 				<br/>
 				<span class="footer__text">Mini About me here</span>
 			</div>
@@ -31,13 +31,14 @@
 		</div>
 		<div class="col-xs-12  col-md-3">
 			<div class="widget-contact  push-down-30">
-				<h6>Contact Me</h6>
+				<h6>Social</h6>
 				<hr>
 				<span class="widget-contact__text">
-					<span class="widget-contact__title">Readable Itd.</span>
-					<br>Tehnološki park 19,
-					<br>1000 Ljubljana
-					<br>Slovenia
+					<i class="fa fa-3x fa-facebook-official"></i> &nbsp;
+					<i class="fa fa-3x fa-twitter-square"></i> &nbsp;
+					<i class="fa fa-3x fa-github-square"></i> &nbsp;
+					<i class="fa fa-3x fa-google-plus-square"></i> &nbsp;
+					<i class="fa fa-3x fa-linkedin-square"></i>
 				</span>
 			</div>
 		</div>
@@ -47,12 +48,16 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-xs-12  col-sm-6">
-				<a href="http://gbotha.co.za">gbotha.co.za</a> © Copyright 2015.
+				<a href="http://gbotha.co.za">Gerhard Botha</a> © Copyright 2015.
 			</div>
 			<div class="col-xs-12  col-sm-6">
 				<div class="copyrights--right">
-					Made by
-					<a href="http://gbotha.co.za">Gerhard Botha</a>.
+					Build with
+					<a href="http://laravel.com" target="_blank">Laravel</a>,
+					Managed with 
+					<a href="http://envoyer.io" target="_blank">Envoyer</a> 
+					Hosted by 
+					<a href="http://digitalocean.com" target="_blank">Digital Ocean</a>
 				</div>
 			</div>
 		</div>

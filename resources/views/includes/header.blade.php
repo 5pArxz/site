@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta name="description" content="Web Developer, Laravel Fanatic">
 		<meta name="author" content="Gerhard Botha">
-		<link rel="shortcut icon" href="images/favicon.png">
+		<link rel="shortcut icon" href="/images/favicon.png">
 		<title>Gerhard Botha | Laravel Developer</title>
 		<!-- Custom styles for this template -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
@@ -26,8 +26,8 @@
 	<header class="header  push-down-45">
 		<div class="container">
 			<div class="logo  pull-left">
-				<a href="index.html">
-					<img src="images/logo.png.pagespeed.ce.9AC7oTjcgs.png" alt="Logo" width="352" height="140">
+				<a href="/">
+					<img src="/images/logo.png.pagespeed.ce.9AC7oTjcgs.png" alt="Logo" width="352" height="140">
 				</a>
 			</div>
 			<div class="navbar-header">
@@ -63,6 +63,9 @@
 							</li>
 							<li>
 								<a href="https://twitter.com/Gerhardt0011" target="_blank" class="social__container"> <span class="fa fa-twitter"></span> </a>
+							</li>
+							<li>
+								<a href="https://github.com/5pArxz" target="_blank" class="social__container"> <span class="fa fa-github"></span> </a>
 							</li>
 						</ul>
 					</div>

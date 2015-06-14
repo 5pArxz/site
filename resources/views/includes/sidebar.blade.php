@@ -3,9 +3,9 @@
 		<div class="widget-author  boxed  push-down-30">
 			<div class="widget-author__image-container">
 				<div class="widget-author__avatar--blurred">
-					<img src="images/gerhard.jpg" alt="Gerhard Botha" width="90" height="90">
+					<img src="/images/gerhard.jpg" alt="Gerhard Botha" width="90" height="90">
 				</div>
-				<img class="widget-author__avatar" src="images/gerhard.jpg" alt="Gerhard Botha" width="90" height="90">
+				<img class="widget-author__avatar" src="/images/gerhard.jpg" alt="Gerhard Botha" width="90" height="90">
 			</div>
 			<div class="row">
 				<div class="col-xs-10  col-xs-offset-1">
@@ -22,26 +22,26 @@
 						<h6>Categories</h6>
 						<ul>
 							<li>
-								<a href="#">Technology &nbsp; <span class="widget-categories__text">(16)</span> </a>
+								<a href="#">Laravel &nbsp; <span class="widget-categories__text">(16)</span> </a>
 							</li>
 							<li>
-								<a href="#">User Interface design &nbsp; <span class="widget-categories__text">(13)</span> </a>
+								<a href="#">PHP &nbsp; <span class="widget-categories__text">(13)</span> </a>
 							</li>
 							<li>
-								<a href="#">User Experience &nbsp; <span class="widget-categories__text">(9)</span> </a>
+								<a href="#">Javascript &nbsp; <span class="widget-categories__text">(9)</span> </a>
 							</li>
 							<li>
-								<a href="#">Startups &nbsp; <span class="widget-categories__text">(23)</span> </a>
+								<a href="#">VueJs &nbsp; <span class="widget-categories__text">(23)</span> </a>
 							</li>
 							<li>
-								<a href="#">Reading &amp; Books &nbsp; <span class="widget-categories__text">(3)</span> </a>
+								<a href="#">Envoyer &amp; Books &nbsp; <span class="widget-categories__text">(3)</span> </a>
 							</li>
 						</ul>
 					</div>
 					<!-- Widget featured post -->
 					<div class="widget-featured-post  push-down-30">
 						<h6>Featured post</h6>
-						<img src="images/dummy-licensed/293x127xblog-image.jpg.pagespeed.ic.26kd1AnH3b.jpg" alt="Featured post" width="293" height="127">
+						<img src="/images/dummy-licensed/293x127xblog-image.jpg.pagespeed.ic.26kd1AnH3b.jpg" alt="Featured post" width="293" height="127">
 						<h4>
 						<a href="single-post.html">Featured Author Post</a>
 						</h4>
@@ -61,21 +61,21 @@
 						<div class="tab-content">
 							<div class="tab-pane  fade  in  active" id="recent-posts">
 								<div class="push-down-15">
-									<img src="images/dummy-licensed/xblog-image-small.jpg.pagespeed.ic.xUKfO4lWHu.jpg" alt="Posts" width="90" height="60">
+									<img src="/images/dummy-licensed/xblog-image-small.jpg.pagespeed.ic.xUKfO4lWHu.jpg" alt="Posts" width="90" height="60">
 									<h5>
 									<a href="single-post.html">This is a showcase of the most recent posts</a>
 									</h5>
 									<span class="widget-posts__time">19 hours ago</span>
 								</div>
 								<div class="push-down-15">
-									<img src="images/dummy-licensed/xblog-image-3-small.jpg.pagespeed.ic.K2378TKtZN.jpg" alt="Posts" width="90" height="60">
+									<img src="/images/dummy-licensed/xblog-image-3-small.jpg.pagespeed.ic.K2378TKtZN.jpg" alt="Posts" width="90" height="60">
 									<h5>
 									<a href="single-post.html">This is a showcase of the most recent posts</a>
 									</h5>
 									<span class="widget-posts__time">19 hours ago</span>
 								</div>
 								<div class="push-down-15">
-									<img src="images/dummy-licensed/xblog-image-small.jpg.pagespeed.ic.xUKfO4lWHu.jpg" alt="Posts" width="90" height="60">
+									<img src="/images/dummy-licensed/xblog-image-small.jpg.pagespeed.ic.xUKfO4lWHu.jpg" alt="Posts" width="90" height="60">
 									<h5>
 									<a href="single-post.html">This is a showcase of the most recent posts</a>
 									</h5>
@@ -84,21 +84,21 @@
 							</div>
 							<div class="tab-pane  fade" id="popular-posts">
 								<div class="push-down-15">
-									<img src="images/dummy-licensed/xblog-image-3-small.jpg.pagespeed.ic.K2378TKtZN.jpg" alt="Posts" width="90" height="60">
+									<img src="/images/dummy-licensed/xblog-image-3-small.jpg.pagespeed.ic.K2378TKtZN.jpg" alt="Posts" width="90" height="60">
 									<h5>
 									<a href="single-post.html">This is a showcase of the most popular posts</a>
 									</h5>
 									<span class="widget-posts__time">9 hours ago</span>
 								</div>
 								<div class="push-down-15">
-									<img src="images/dummy-licensed/xblog-image-small.jpg.pagespeed.ic.xUKfO4lWHu.jpg" alt="Posts" width="90" height="60">
+									<img src="/images/dummy-licensed/xblog-image-small.jpg.pagespeed.ic.xUKfO4lWHu.jpg" alt="Posts" width="90" height="60">
 									<h5>
 									<a href="single-post.html">This is a showcase of the most popular posts</a>
 									</h5>
 									<span class="widget-posts__time">12 hours ago</span>
 								</div>
 								<div class="push-down-15">
-									<img src="images/dummy-licensed/xblog-image-3-small.jpg.pagespeed.ic.K2378TKtZN.jpg" alt="Posts" width="90" height="60">
+									<img src="/images/dummy-licensed/xblog-image-3-small.jpg.pagespeed.ic.K2378TKtZN.jpg" alt="Posts" width="90" height="60">
 									<h5>
 									<a href="single-post.html">This is a showcase of the most popular posts</a>
 									</h5>
